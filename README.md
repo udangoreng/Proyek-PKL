@@ -2,6 +2,5 @@
 
 Anggota Kelompok : 
 
-Dirga Dhosigustanoma [ 29 |  XI RPL A  ]
-
+Dirga Dhosigustanoma [ 29 |  XI RPL A  ]<br>
 Divananda Ayu Sasikirana [ 30 |  XI RPL A  ]
